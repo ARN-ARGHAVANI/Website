@@ -20,14 +20,14 @@ body {
 
 .asideBox {
   display: flex;
-  gap: 5px;
+  gap: 15px;
   justify-content: space-evenly;
 }
 
 aside {
   background-color: #98989880;
   margin: 10px;
-  border-radius: 15px;
+  border-radius: 5px;
   min-width: 40vw;
   min-height: 35vh;
   justify-content: center;
